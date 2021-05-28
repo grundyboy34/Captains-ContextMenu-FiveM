@@ -1,3 +1,6 @@
+## This fork is focusing on making the menu completely modular via implementing a handler system that passes menu items to NUI each time the menu is requested.
+
+
 # Captains-ContextMenu-FiveM
 ### About <br/>
 A Raytrace & Entity based context menu for GTA V FiveM.
